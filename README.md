@@ -1,6 +1,7 @@
 # PMS - Persoanl Management System
 
-Technologies used: Yii2.0.9 with Gii extension, Active Form, Active Record, Ajax Using DBMS: MySQL
+Technologies used: Yii2.0.9 with Gii extension, Active Form, Active Record, Ajax
+Using DBMS: MySQL, Yii Migration, Data Transaction
 
 DIRECTORY STRUCTURE
 -------------------
