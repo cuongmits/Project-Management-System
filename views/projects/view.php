@@ -47,8 +47,6 @@ $this->params['breadcrumbs'][] = $this->title;
         foreach ($purs as $key => $pur) {
             ?>
             <?=
-            //var_dump($purs);
-            //var_dump($pur);
             DetailView::widget([
                 'model' => $pur,
                 'attributes' => [
